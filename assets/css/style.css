@@ -880,13 +880,13 @@ Nav Menu style
     padding: 30px 15px;
 }
 nav.navbar.bootsnav ul.nav li.active > a{
-    color:#fddc57;
+    color:rgb(107, 22, 22);
 }
 nav.navbar.bootsnav.no-background.white ul.nav > li > a {
     color: #fff;
 }
 nav.navbar.bootsnav.no-background.white ul.nav > li.active > a {
-    color: #fddc57;
+    color: rgb(70, 14, 14);
 }
 
 /*
