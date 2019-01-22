@@ -1456,3 +1456,9 @@ tems Section style
     padding: 0px 5px;
     color: #ff0000;
 }
+
+/* about page */
+.aboutus{
+    padding-top:40%;
+    margin-top:120px;
+}
