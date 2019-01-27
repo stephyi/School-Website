@@ -883,7 +883,7 @@ nav.navbar.bootsnav ul.nav li.active > a{
     color:rgb(107, 22, 22);
 }
 nav.navbar.bootsnav.no-background.white ul.nav > li > a {
-    color: #fff;
+    color:black;
 }
 nav.navbar.bootsnav.no-background.white ul.nav > li.active > a {
     color: rgb(70, 14, 14);
